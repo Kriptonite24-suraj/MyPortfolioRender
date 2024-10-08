@@ -18,6 +18,11 @@
 
 }
 
+.suraj:hover{
+    color: #B9E937;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
 .nav-menu li {
     padding: 0 1rem;
 

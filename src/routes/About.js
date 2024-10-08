@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 import HeroImg2 from '../components/HeroImg2';
 import AboutContent from '../components/AboutContent';
 
-const About = () => {
+function About (){
   return (
     <div>
       <Navbar />
@@ -14,5 +14,4 @@ const About = () => {
     </div>
   )
 }
-
 export default About
