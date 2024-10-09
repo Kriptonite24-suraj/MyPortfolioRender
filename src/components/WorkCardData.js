@@ -1,6 +1,7 @@
 import ProImg1 from "../assets/proj1.png";
 import ProImg2 from "../assets/proj3.png";
 import ProImg3 from "../assets/proj2.png";
+import ProImg4 from "../assets/proj4.png";
 
 const WorkCardData = [
     {
@@ -25,7 +26,7 @@ const WorkCardData = [
         source:"https://github.com/Kriptonite24-suraj/QuickNotes"
     },
     {
-        imgSrc: ProImg3,
+        imgSrc: ProImg4,
         title:"QR_Generator",
         text:"Created a web application that enables users to generate QR codes for any provided URL or text using a friendly interface. The application displays the generated QR code in the browser dynamically.",
         view:"https://qr-generator-r14p.onrender.com/",
