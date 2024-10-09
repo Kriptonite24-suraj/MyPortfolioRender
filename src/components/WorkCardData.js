@@ -24,6 +24,13 @@ const WorkCardData = [
         view:"https://quicknotes-suraj.netlify.app/",
         source:"https://github.com/Kriptonite24-suraj/QuickNotes"
     },
+    {
+        imgSrc: ProImg3,
+        title:"QR_Generator",
+        text:"Created a web application that enables users to generate QR codes for any provided URL or text using a friendly interface. The application displays the generated QR code in the browser dynamically.",
+        view:"https://qr-generator-r14p.onrender.com/",
+        source:"https://github.com/Kriptonite24-suraj/QR_Generator/tree/master"
+    },
     
 ]
 
